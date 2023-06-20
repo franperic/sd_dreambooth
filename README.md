@@ -1,7 +1,10 @@
 # Stable Diffusion Dreambooth
 
 This repo contains code for training and inference of a fine-tuned stable diffusion model using dreambooth.
+
 The repo is based on TheLastBen's implementation: https://github.com/TheLastBen/fast-stable-diffusion.
+
+The code ran on a V100 GPU with 32 GB memory on Google Colab.
 
 ## Results
 
